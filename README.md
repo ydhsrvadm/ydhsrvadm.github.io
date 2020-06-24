@@ -6,3 +6,6 @@
 3. 可以加防丢失Q群：**41592490**
 4. 访问不了时，建议尝试科学上网工具。
 5.  如果你是一名 IT 人员，建议你激活浏览器的 DoH 功能。
+
+
+<div style="display:none"><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_3293570'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s9.cnzz.com/stat.php%3Fid%3D3293570' type='text/javascript'%3E%3C/script%3E"));</script></div>
